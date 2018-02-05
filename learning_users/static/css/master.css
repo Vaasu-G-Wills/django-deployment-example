@@ -1,0 +1,9 @@
+#test{
+  width: 100px;
+  height: 100px;
+}
+#image{
+  width: 100%;
+    height: auto;
+    max-width: 100%;
+}
